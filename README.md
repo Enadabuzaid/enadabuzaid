@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!--### Hi there 👋  
+### Hi there 👋  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
