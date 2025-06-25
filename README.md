@@ -6,10 +6,10 @@
 <h3 align="left">🧑🏻‍💻 About Me</h3>                                 
                                                           
 ###                                                     
-                                     
+                                      
 <p align="left">I'm Enad Abuzaid <br>                                                                            
                                                                                                  
-###                                                            
+###                                                             
                                     
 <div align="center">                           
   <a href="https://www.linkedin.com/in/enad-abuzaid/" target="_blank">   
