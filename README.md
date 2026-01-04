@@ -63,9 +63,6 @@
 - **Tourism / Booking Platforms**: multi-tenant request/offer/booking flows + analytics dashboards
 - **Admin Modules**: categories/tags/services approvals, notifications, moderation pipelines
 - **Research**: Jordan tourism ontology, competency questions, SPARQL queries, KG enrichment
-
-> If you want, I can turn this section into clickable cards with icons + screenshots later.
-
 ---
 
 ## 📊 GitHub Stats
