@@ -1,143 +1,170 @@
-<h1 align="center">Hey there 👋 I'm Enad Abuzaid</h1>
-<h3 align="center">
-Senior Software Engineer • Laravel/PHP • Node.js • Vue/Inertia • React • Multi-tenant SaaS
-</h3>
+<div align="center">
+  
+# Enad Abuzaid
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/enad-abuzaid/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:enad.abuzaid15@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52" height="40" alt="gmail logo" />
-  </a>
-</p>
+### Senior Software Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Backend-ff2d20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-8+-777bb4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-3-42b883?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-Stack-9553e9?style=flat&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Frontend-61dafb?style=flat&logo=react&logoColor=222" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232f3e?style=flat&logo=amazonaws&logoColor=white" />
-</p>
+**Laravel/PHP • Node.js • Vue/Inertia • React • Multi-tenant SaaS**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+Laravel+platforms;Master's+student+in+Web+Intelligence;Passionate+about+clean+architecture;Open+to+global+opportunities" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑🏻‍💻 About Me
+## 👨‍💻 About Me
 
-- 🧠 **Senior Software Engineer** with 5+ years building scalable, user-focused products.
-- 🧱 Strong backend focus: **Laravel / PHP**, **APIs**, **queues**, **performance**, **clean architecture**.
-- ⚙️ Comfortable across the stack: **Vue/Inertia/shadcn-vue**, **React**, modern tooling.
-- ☁️ DevOps mindset: deployments, environments, CI/CD, reliability, monitoring.
-- 🎓 Master’s student in **Web Intelligence** (University of Jordan) — researching **Semantic Web / Ontologies + AI** for **Tourism**.
+```typescript
+const enad = {
+    location: "Open to: US 🇺🇸 | Canada 🇨🇦 | Remote 🌍",
+    education: "MSc Web Intelligence — Semantic Web & AI for Tourism",
+    currentFocus: ["Multi-tenant SaaS", "Laravel Packages", "Tourism Ontology Research"],
+    askMeAbout: ["Laravel", "System Design", "Performance Optimization", "Knowledge Graphs"],
+    funFact: "I turn spaghetti code into maintainable modules ✨"
+};
+```
 
----
+<br>
 
-## 🔥 What I’m Great At
-
-- **Backend Engineering:** Laravel (8–12), REST APIs, auth/policies, validation, testing
-- **Queues & Async:** Redis/Horizon, Supervisors, cron, background jobs
-- **Performance:** indexing strategy, caching, query optimization, scalable patterns
-- **Integrations:** payment/shipping/SaaS APIs, real-time sync, secure API design
-- **Frontend:** Vue 3 + Inertia + shadcn-vue, React when needed
-- **Cloud:** AWS (S3, queues, Lambda), CI/CD (Jenkins, Argo CD)
-
----
-
-## 🧩 Experience Snapshot
-
-- **Software Engineer — ULA (Amman)** *(May 2025 – Present)*  
-  Modular architecture, Laravel + Filament, CI/CD, integrations, performance & scalability.
-
-- **Senior Software Engineer — Ribih (Riyadh)** *(May 2024 – May 2025)*  
-  AWS (S3, queues, Lambda), integrations (Tabby, Tamara, SMSA, Aramex, Urway), optimization.
-
-- **Software Engineer — Chain Reaction (Amman)** *(Oct 2021 – May 2024)*  
-  Built multiple products from scratch, APIs, SEO improvements, multi-framework exposure.
-
-- **Junior Backend — Little Thinking Minds (Amman)** *(May 2021 – Sep 2021)*  
-  CodeIgniter MVC, custom framework work, Jira, agile practices.
-
-- **Co-founder / Full Stack — Smart Station (Amman)** *(Aug 2020 – May 2021)*  
-  Project leadership, Laravel APIs, WordPress builds, clean code mindset.
-
----
-
-## 🎓 Education & Certifications
-
-- **Master’s Degree — Web Intelligence** (University of Jordan) *(2023 – Present)*
-- **Bachelor’s — Business Information Technology** (University of Jordan) *(2016 – 2020)*
-- **Certifications**
-  - Mastering Laravel Framework and PHP (Board Infinity)
-  - Python for Data Science, AI & Development (IBM)
-  - Introduction to Data Analytics (IBM)
-
----
-
-## 📦 Published Packages
-
-- **enadabuzaid/country-data**  
-  Country codes, lists, region filters, backend + frontend-ready integration.
-
-- **enadstack/laravel-importer-exporter**  
-  DB-driven import/export, auto templates, validation + error handling.
-
-- **enadstack/laravel-roles**  
-  Roles & permissions on top of spatie/laravel-permission, supports single + multi-tenant setups.
-
----
-
-## 📊 GitHub Stats (Fixed / Non-broken)
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Enadabuzaid&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enadabuzaid&layout=compact&langs_count=10&theme=dracula&hide_border=true"
-    height="150"
-    alt="Top languages"
-  />
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+## 🚀 What I Do Best
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Backend Engineering
+- Laravel (8–12), REST APIs, Policies
+- Auth systems, Validation, Testing
+- Clean architecture & SOLID principles
+
+### ⚡ Performance & Scale
+- Redis caching, DB optimization
+- Indexing strategies, Query tuning
+- Background jobs & queues
+
+</td>
+<td width="50%">
+
+### 🔄 Real-time Systems
+- Redis, Horizon, Supervisor
+- Events, WebSockets (Reverb)
+- Queue management at scale
+
+### 🎨 Frontend
+- Vue 3 + Inertia + shadcn-vue
+- React when it fits
+- Component-driven architecture
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏗️ Current Focus
+
+- 🎯 Building production-grade **admin/provider/client dashboards**
+- 🔄 Refactoring legacy codebases → **maintainable modules**
+- 🧠 Designing **tourism ontology + AI integration** for research
+- 📦 Creating reusable **Laravel packages** for faster development
+
+<br>
+
+## 📌 Featured Work
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="60"/>
+<br><strong>Tourism Platforms</strong>
+<br><sub>Multi-tenant booking flows with analytics dashboards</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/administrative-tools.png" width="60"/>
+<br><strong>Admin Modules</strong>
+<br><sub>Categories, approvals, notifications, moderation</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/mind-map.png" width="60"/>
+<br><strong>Research</strong>
+<br><sub>Jordan tourism ontology, SPARQL, Knowledge Graphs</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enadabuzaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enadabuzaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Enadabuzaid&theme=dracula&hide_border=true"
-    height="155"
-    alt="GitHub streak"
-  />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Enadabuzaid&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <!-- Activity Graph (NEW endpoint) -->
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Enadabuzaid&theme=react-dark&hide_border=true"
-    height="290"
-    alt="Activity graph"
-  />
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enadabuzaid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FFFFFF)](https://github.com/Enadabuzaid)
+
 </div>
 
-<!-- If Activity Graph breaks for you, use this fallback instead:
+<br>
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Enadabuzaid&theme=react-dark&hide_border=true"
-    height="290"
-    alt="Activity graph"
-  />
-</div>
--->
+
+I'm always interested in collaborating on innovative projects and exploring global opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Enadabuzaid?tab=repositories)
 
 ---
 
-## 🤝 Let’s Connect
+<img src="https://komarev.com/ghpvc/?username=Enadabuzaid&style=for-the-badge&color=BD93F9" alt="Profile Views" />
 
-- LinkedIn: https://www.linkedin.com/in/enad-abuzaid/
-- Email: enad.abuzaid15@gmail.com
-- GitHub: https://github.com/Enadabuzaid
+**✨ Always building. Always learning. Always improving. ✨**
 
-<p align="center">✨ Always building. Always learning. Always improving. ✨</p>
+</div>
