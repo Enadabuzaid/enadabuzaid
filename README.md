@@ -177,6 +177,27 @@ const enad = {
 
 <div align="center">
   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enadabuzaid&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enadabuzaid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enadabuzaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enadabuzaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Enadabuzaid&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9)](https://git.io/streak-stats)
 
 </div>
