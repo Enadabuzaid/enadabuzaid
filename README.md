@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid15@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+Laravel+platforms;Mastering+multi-tenant+architecture;Crafting+modern+web+experiences;Open+to+global+opportunities" alt="Typing SVG" />
 
@@ -172,6 +172,8 @@ const enad = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enadabuzaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enadabuzaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnadAbuzaid)](https://git.io/streak-stats)
 
 </div>
 
