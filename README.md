@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid@example.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+Laravel+platforms;Mastering+multi-tenant+architecture;Crafting+modern+web+experiences;Open+to+global+opportunities" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@
 
 ```typescript
 const enad = {
-    location:  "🌍 Open to opportunities in:",
+    location: "🌍 Open to opportunities in:",
     regions: ["Jordan 🇯🇴", "Saudi Arabia 🇸🇦", "UAE 🇦🇪", "Remote Worldwide 💻"],
     education: "MSc Web Intelligence — Semantic Web & AI for Tourism",
     yearsOfExperience: "5+ years",
@@ -39,7 +39,7 @@ const enad = {
     ],
     funFact: "I turn spaghetti code into maintainable, modular masterpieces ✨"
 };
-``` 
+```
 
 <br>
 
@@ -49,7 +49,7 @@ const enad = {
 
 ### 🔧 Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20? style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -58,7 +58,7 @@ const enad = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4? style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -73,7 +73,7 @@ const enad = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF? style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 </div>
@@ -125,7 +125,7 @@ const enad = {
 <div align="center">
 
 | 🎯 Focus Area | 📝 Description |
-|---------------|----------------|
+|:-------------:|----------------|
 | 🏢 **SaaS Platforms** | Building production-grade multi-tenant admin, provider & client dashboards |
 | 🔄 **Code Refactoring** | Transforming legacy monoliths into maintainable, modular architectures |
 | 🧠 **Research** | Developing tourism ontology with AI integration for semantic search |
@@ -142,19 +142,22 @@ const enad = {
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="70" alt="Tourism"/>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="80" alt="Tourism"/>
 <h3>🌍 Tourism Platforms</h3>
-<sub>Multi-tenant booking systems with real-time analytics, payment integration, and comprehensive admin dashboards</sub>
+<p><sub>Multi-tenant booking systems with real-time analytics, payment integration, and comprehensive admin dashboards</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/administrative-tools.png" width="70" alt="Admin"/>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" alt="Admin"/>
 <h3>⚙️ Admin Systems</h3>
-<sub>Dynamic content management, approval workflows, notification systems, and moderation tools</sub>
+<p><sub>Dynamic content management, approval workflows, notification systems, and moderation tools</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/mind-map.png" width="70" alt="Research"/>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80" alt="Research"/>
 <h3>🔬 Research Projects</h3>
-<sub>Jordan tourism ontology, SPARQL queries, Knowledge Graphs, and Semantic Web technologies</sub>
+<p><sub>Jordan tourism ontology, SPARQL queries, Knowledge Graphs, and Semantic Web technologies</sub></p>
 </td>
 </tr>
 </table>
@@ -174,7 +177,7 @@ const enad = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com? user=Enadabuzaid&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Enadabuzaid&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9)](https://git.io/streak-stats)
 
 </div>
 
@@ -192,14 +195,16 @@ const enad = {
 
 ### 🌍 Preferred Locations
 
-I'm actively seeking opportunities in the following regions: 
+I'm actively seeking opportunities in the following regions:
 
-🇯🇴 **Jordan** | 🇸🇦 **Saudi Arabia** | 🇦🇪 **UAE** | 🇰🇼 **Kuwait** | 🇶🇦 **Qatar** | 🇧🇭 **Bahrain** | 💻 **Remote (Worldwide)**
+<br>
 
----
+🇯🇴 **Jordan** &nbsp;•&nbsp; 🇸🇦 **Saudi Arabia** &nbsp;•&nbsp; 🇦🇪 **UAE** &nbsp;•&nbsp; 🇰🇼 **Kuwait** &nbsp;•&nbsp; 🇶🇦 **Qatar** &nbsp;•&nbsp; 🇧🇭 **Bahrain** &nbsp;•&nbsp; 💻 **Remote**
 
-### Interested in: 
-✅ Full-time positions | ✅ Contract work | ✅ Consulting | ✅ Open-source collaboration
+<br>
+
+| ✅ Full-time Positions | ✅ Contract Work | ✅ Consulting | ✅ Open-source Collaboration |
+|:----------------------:|:----------------:|:-------------:|:----------------------------:|
 
 </div>
 
@@ -211,15 +216,21 @@ I'm actively seeking opportunities in the following regions:
 
 I'm always interested in discussing innovative projects, collaboration opportunities, and exploring new technologies.
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![Portfolio](https://img.shields.io/badge/Explore_My_Repositories-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid?tab=repositories)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid@example.com)
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Enadabuzaid&style=for-the-badge&color=BD93F9" alt="Profile Views" />
 
-### ✨ *Always Building. Always Learning. Always Improving. * ✨
+<br>
+
+### ✨ *Always Building. Always Learning. Always Improving.* ✨
+
+<br>
 
 <sub>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</sub>
 
