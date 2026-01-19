@@ -180,7 +180,7 @@ const enad = {
 ## 💼 Open to Opportunities
 
 <div align="center">
-
+ 
 ### 🌍 Preferred Locations
 
 I'm actively seeking opportunities in the following regions:
