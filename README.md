@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Enad Abuzaid     
        
 ### Senior Software Engineer | Full-Stack Developer  
-
+ 
 **Laravel/PHP • Node.js • Vue/Inertia • React • Multi-tenant SaaS Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
