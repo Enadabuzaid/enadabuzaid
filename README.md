@@ -4,7 +4,7 @@
        
 ### Senior Software Engineer | Full-Stack Developer    
  
-**Laravel/PHP • Node.js • Vue/Inertia • React • Multi-tenant SaaS Architecture**
+**Laravel/PHP • Node.js • Vue/Inertia • React • Multi-tenant SaaS Architecture** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid)
