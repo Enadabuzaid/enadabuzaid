@@ -122,52 +122,6 @@ const enad = {
 
 <br>
 
-## 🎯 What I'm Currently Working On
-
-<div align="center">
-
-| 🎯 Focus Area | 📝 Description |
-|:-------------:|----------------|
-| 🏢 **SaaS Platforms** | Building production-grade multi-tenant admin, provider & client dashboards |
-| 🔄 **Code Refactoring** | Transforming legacy monoliths into maintainable, modular architectures |
-| 🧠 **Research** | Developing tourism ontology with AI integration for semantic search |
-| 📦 **Open Source** | Creating reusable Laravel packages for the developer community |
-
-</div>
-
-<br>
-
-## 🏆 Featured Projects & Experience
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="80" alt="Tourism"/>
-<h3>🌍 Tourism Platforms</h3>
-<p><sub>Multi-tenant booking systems with real-time analytics, payment integration, and comprehensive admin dashboards</sub></p>
-</td>
-<td width="33%" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" alt="Admin"/>
-<h3>⚙️ Admin Systems</h3>
-<p><sub>Dynamic content management, approval workflows, notification systems, and moderation tools</sub></p>
-</td>
-<td width="33%" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80" alt="Research"/>
-<h3>🔬 Research Projects</h3>
-<p><sub>Jordan tourism ontology, SPARQL queries, Knowledge Graphs, and Semantic Web technologies</sub></p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 ## 📊 GitHub Statistics
 
 
