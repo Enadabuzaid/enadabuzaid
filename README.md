@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid15@gmail.com)
+[![/dev/null](https://img.shields.io/badge/dev%2Fnull-111112?style=for-the-badge&logo=gnubash&logoColor=white)](https://dev-null.sh/@Enadabuzaid)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+Laravel+platforms;Mastering+multi-tenant+architecture;Crafting+modern+web+experiences;Open+to+global+opportunities" alt="Typing SVG" />
 
@@ -129,6 +130,12 @@ const enad = {
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enadabuzaid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FFFFFF" alt="Activity Graph" />
 
+<br>
+
+**My commits on [/dev/null](https://dev-null.sh/@Enadabuzaid)**
+
+[![/dev/null activity](https://dev-null.sh/@Enadabuzaid/graph.svg?theme=auto)](https://dev-null.sh/@Enadabuzaid)
+
 </div>
 
 <br>
@@ -164,7 +171,8 @@ I'm always interested in discussing innovative projects, collaboration opportuni
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enad-abuzaid/)
 [![Portfolio](https://img.shields.io/badge/Explore_My_Repositories-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enadabuzaid?tab=repositories)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid@example.com)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enad.abuzaid15@gmail.com)
+[![/dev/null](https://img.shields.io/badge/Follow_me_on_/dev/null-111112?style=for-the-badge&logo=gnubash&logoColor=white)](https://dev-null.sh/@Enadabuzaid)
 
 ---
 
